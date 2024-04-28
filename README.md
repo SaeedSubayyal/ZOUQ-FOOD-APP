@@ -1,2 +1,1 @@
-# zouq
-Food App
+# Zouq
