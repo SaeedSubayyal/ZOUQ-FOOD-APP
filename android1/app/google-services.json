@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "542525841018",
+    "project_id": "zouqapplication",
+    "storage_bucket": "zouqapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542525841018:android:0a3ae782c36a93e8bbe5c3",
+        "android_client_info": {
+          "package_name": "com.zouqapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542525841018-256d3qk2k6tq4639dfpebna1va9u62in.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zouqapplication",
+            "certificate_hash": "53a20afa70483c250179678e36fb90f1077b0fd6"
+          }
+        },
+        {
+          "client_id": "542525841018-nhtcn9l4sedn9q3vfchrgfo2nh9vpqhl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV7W-S2yny3ouCIBu7Sy68UCdGPkV-joc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542525841018-nhtcn9l4sedn9q3vfchrgfo2nh9vpqhl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
